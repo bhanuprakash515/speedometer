@@ -1,0 +1,49 @@
+/* Write your CSS here */
+.container {
+  background-color: #07080c;
+  font-family: 'roboto';
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 50px;
+}
+.heading1 {
+  color: #ffffff;
+  font-family: 'roboto';
+  font-style: italic;
+}
+.image {
+  height: 500px;
+  width: 700px;
+}
+.heading2 {
+  color: #ffffff;
+  font-family: 'roboto';
+}
+.para {
+  color: #cbd5e1;
+  font-size: 19px;
+}
+.btn1 {
+  height: 35px;
+  width: 100px;
+  background-color: #0b69ff;
+  border-radius: 9px;
+  border-style: none;
+  color: #cbd5e1;
+  margin: 10px;
+  font-weight: bold;
+}
+.btn2 {
+  height: 35px;
+  width: 100px;
+  background-color: #07080c;
+  border-radius: 9px;
+  border-color: #cbd5e1;
+  color: #cbd5e1;
+  margin: 10px;
+  font-weight: bold;
+  font-size: 13px;
+}
